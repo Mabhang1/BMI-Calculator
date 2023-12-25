@@ -1,5 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![BMI Calculator Banner](Documentation/BMI%20Swift.jpg)
 
 #  BMI Calculator
 
